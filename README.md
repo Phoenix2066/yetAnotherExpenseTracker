@@ -69,7 +69,7 @@ The app should now be running at http://localhost:3000/
 
 ---
 
-##To-Do:
+## To-Do
 1. Make dashboard reflect all the data changes and updates [Basically make the dashboard interactive to data updates]
     - Data should be updated to the chart
     - The info cards should be able to generate/ display the summary info
