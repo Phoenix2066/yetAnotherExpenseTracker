@@ -7,7 +7,6 @@ function AddTransac({data, setData, setNewActive}){
 
     const refresh = ()=>{
         transacName.value = "";
-        transacName.value = "";
         amt.value = "";
         desc.value = "";
         date.value = "";
