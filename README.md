@@ -76,3 +76,9 @@ The app should now be running at http://localhost:3000/
     - Info-Pane must update category ranking and most spent category based on the data updates
 2. UI changes to make it look good
 3. Make Add transaction menu easier and simpler for faster entries
+
+---
+
+## First Draft/Design:
+<img width="4414" height="2274" alt="sketch" src="https://github.com/user-attachments/assets/6d0a6eb9-e23a-4a37-94a0-9024e23de1b0" />
+
